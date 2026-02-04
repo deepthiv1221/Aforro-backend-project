@@ -99,4 +99,7 @@ python manage.py test tests --settings=local_settings
 5. Run server: `python manage.py runserver --settings=local_settings`
 
 ---
-*Developed for the Aforro Backend Developer Assignment (Round 2).*
+*Developed for the Aforro Backend Developer Assignment .*
+
+Deepthi V
+deepthivijaykumar21@gmail.com
