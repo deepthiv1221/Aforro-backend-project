@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+
+# Database
+db.sqlite3
+*.sqlite3
+celerybeat-schedule
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+local_settings.py
+
+# Docker
+.docker/
+
+# Artifacts/Temporary
+test_output.txt
+test_output_full.txt
+test_output_final.txt
+test_output_ascii.txt
+test_output_container.txt
+manual_test.py
+local_test.py
+verify_complete.py
+demo.py
+tests/test_apis_add.py
